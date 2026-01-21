@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sajjad Mohsin
+### Hi there 👋, I'm Sajjad Ali Mohsin
 
 Junior Software Developer specializing in **.NET Ecosystem**. I build robust desktop applications and business solutions.
 
