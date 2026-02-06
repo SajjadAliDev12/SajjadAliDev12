@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sajjad Ali Mohsin
 
-Junior Software Developer specializing in **.NET Ecosystem**. I build robust desktop applications and business solutions.
+Back-End Software Developer specializing in **.NET Ecosystem**. I build robust desktop applications and business solutions.
 
 - 🔭 I’m currently working on **Venice POS System (WPF/SQL)**.
 - 💻 Tech Stack: **C#**, **WinForms**, **WPF**, **SQL Server**, **Entity Framework**.
