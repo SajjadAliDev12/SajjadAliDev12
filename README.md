@@ -8,4 +8,4 @@ Back-End Software Developer specializing in **.NET Ecosystem**. I build robust d
 
 ---
 📊 **GitHub Stats**
-![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadAliDev12&show_icons=true&theme=radical)
+![Sajjad's GitHub Streak](https://streak-stats.demolab.com/?user=SajjadAliDev12&theme=radical)
